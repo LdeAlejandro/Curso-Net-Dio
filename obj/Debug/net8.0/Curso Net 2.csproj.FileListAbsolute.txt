@@ -1,0 +1,31 @@
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\Curso Net 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\Curso Net 2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\Curso Net 2.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\Curso Net 2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Curso Net 2\bin\Debug\net8.0\Curso Net 2.exe
+C:\Users\Alejandro\Desktop\Curso Net 2\bin\Debug\net8.0\Curso Net 2.deps.json
+C:\Users\Alejandro\Desktop\Curso Net 2\bin\Debug\net8.0\Curso Net 2.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Curso Net 2\bin\Debug\net8.0\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Curso Net 2\bin\Debug\net8.0\Curso Net 2.pdb
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\refint\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\Curso Net 2.pdb
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\Curso Net 2.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Curso Net 2\obj\Debug\net8.0\ref\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\bin\Debug\net8.0\Curso Net 2.exe
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\bin\Debug\net8.0\Curso Net 2.deps.json
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\bin\Debug\net8.0\Curso Net 2.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\bin\Debug\net8.0\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\bin\Debug\net8.0\Curso Net 2.pdb
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\refint\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.pdb
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\ref\Curso Net 2.dll
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Net 2.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Cursos\Curso Net 2\obj\Debug\net8.0\Curso Ne.89AB2512.Up2Date

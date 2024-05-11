@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Product_Name": "Material de escritorio",
+    "Preco": 20.99,
+    "dataDeVenda": "2024-05-10T20:22:13.5109973-03:00"
+  },
+  {
+    "Id": 2,
+    "Product_Name": "Material de oficina",
+    "Preco": 240.99,
+    "dataDeVenda": "2024-05-10T20:22:13.5109973-03:00"
+  }
+]
